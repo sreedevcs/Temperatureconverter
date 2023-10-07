@@ -15,7 +15,7 @@ This Temperature Converter is a web application that lets you input a temperatur
 
 ## Usage
 
-1. Open the `index.html` file in your web browser.
+1. Open the `sreedev.html` file in your web browser.
 2. Enter a temperature value in the input field.
 3. Select the units for the input temperature (Celsius, Fahrenheit, or Kelvin) from the first dropdown.
 4. Select the units for the output temperature from the second dropdown.
